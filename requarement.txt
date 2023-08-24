@@ -11,4 +11,4 @@ sqlparse
 typing_extensions
 tzdata
 whitenoise
-upgrade pip
+-m pip install --upgrade pip
